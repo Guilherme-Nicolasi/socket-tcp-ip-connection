@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1694451549 source:/home/nicolasi/Development/socket_connection/chat/socket_client.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<unistd.h>
+	<pthread.h>
+
+1694451923 source:/home/nicolasi/Development/socket_connection/chat/socket_server.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<signal.h>
+	<unistd.h>
+	<pthread.h>
+
